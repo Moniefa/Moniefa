@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Moniefa
-- 👀 I’m interested in becoming a Fullstack Java Developer
-- 🌱 I’m currently learning .net Programming, Object Oriented Systems, and Databases.
+- 👋 Hi, I’m @Moniefa, my repositories are currently private and can be shared upon request.
+- 👀 I’m interested in becoming a Fullstack Java Developer. 
+- 🌱 I’m currently learning .NET Programming, Object Oriented Systems, and Database Systems.
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me monie_fbaybe on IG(Instagram)
 
